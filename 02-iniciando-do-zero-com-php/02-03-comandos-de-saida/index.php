@@ -7,6 +7,7 @@ fullStackPHPClassName("02.03 - Comandos de saída");
  */
 fullStackPHPClassSession("echo", __LINE__);
 
+
 echo "<p>Olá Mundo!", " ","<span class='tag'>#BoraProgramar!</span>" , "</p>";
 
 $hello = "olá mundo!";
@@ -36,6 +37,7 @@ fullStackPHPClassSession("print", __LINE__);
 
 print $hello; 
 print $code;
+print "aaaa";
 
 print "<h3>{$hello} {$code}</h3>";
 
@@ -85,4 +87,7 @@ var_dump(
     $hello,
     $code,
 );
+  
+ 
+
 
