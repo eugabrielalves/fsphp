@@ -85,7 +85,7 @@ fullStackPHPClassSession("var_dump", __LINE__);
 var_dump(
     $array,
     $hello,
-    $code,
+    $company,
 );
   
  
